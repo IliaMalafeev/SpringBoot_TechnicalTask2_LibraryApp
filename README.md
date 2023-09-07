@@ -89,13 +89,12 @@ message "No books were found" should be displayed.
 If a person has taken a book more than 10 days ago and still did not return it - that book must be
 highlighted red in this persons list of books.
 
-
 ## Implementation
 
 Source code in this repository contains all required configurations and functionality,
 as well as entities, controllers, validators, etc. It is a fully complete functional project.
 
 If you want to run and test it - you have to create a test database on your local machine
-and fill out missing fields in database.properties file
-(do not forget to remove ".origin" from file name). I have also added sql script file
+and fill out missing fields in `application.properties` file
+(do not forget to remove ".blanc" from file name). I have also added sql script file
 "postgres_table_creation_commands.sql" with commands to create the necessary tables.

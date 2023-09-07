@@ -1,4 +1,4 @@
-package ru.iliamalafeev.springcourse.project2SpringBoot.services;
+package ru.iliamalafeev.techtask2.project2SpringBoot.services;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.PageRequest;
@@ -6,9 +6,9 @@ import org.springframework.data.domain.Pageable;
 import org.springframework.data.domain.Sort;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
-import ru.iliamalafeev.springcourse.project2SpringBoot.models.Book;
-import ru.iliamalafeev.springcourse.project2SpringBoot.models.Person;
-import ru.iliamalafeev.springcourse.project2SpringBoot.repositories.BooksRepository;
+import ru.iliamalafeev.techtask2.project2SpringBoot.models.Book;
+import ru.iliamalafeev.techtask2.project2SpringBoot.models.Person;
+import ru.iliamalafeev.techtask2.project2SpringBoot.repositories.BooksRepository;
 
 import java.util.Date;
 import java.util.List;

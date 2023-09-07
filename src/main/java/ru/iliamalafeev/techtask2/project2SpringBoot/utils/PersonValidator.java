@@ -1,11 +1,11 @@
-package ru.iliamalafeev.springcourse.project2SpringBoot.utils;
+package ru.iliamalafeev.techtask2.project2SpringBoot.utils;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 import org.springframework.validation.Errors;
 import org.springframework.validation.Validator;
-import ru.iliamalafeev.springcourse.project2SpringBoot.models.Person;
-import ru.iliamalafeev.springcourse.project2SpringBoot.services.PeopleService;
+import ru.iliamalafeev.techtask2.project2SpringBoot.models.Person;
+import ru.iliamalafeev.techtask2.project2SpringBoot.services.PeopleService;
 
 import java.util.Optional;
 

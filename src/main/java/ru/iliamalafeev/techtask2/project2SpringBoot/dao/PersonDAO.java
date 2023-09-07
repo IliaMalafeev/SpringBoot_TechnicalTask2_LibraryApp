@@ -1,4 +1,4 @@
-package ru.iliamalafeev.springcourse.project2SpringBoot.dao;
+package ru.iliamalafeev.techtask2.project2SpringBoot.dao;
 
 import org.springframework.stereotype.Component;
 

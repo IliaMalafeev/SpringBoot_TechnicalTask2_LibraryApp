@@ -1,4 +1,4 @@
-package ru.iliamalafeev.springcourse.project2SpringBoot.controllers;
+package ru.iliamalafeev.techtask2.project2SpringBoot.controllers;
 
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -7,11 +7,11 @@ import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.validation.BindingResult;
 import org.springframework.web.bind.annotation.*;
-import ru.iliamalafeev.springcourse.project2SpringBoot.models.Book;
-import ru.iliamalafeev.springcourse.project2SpringBoot.models.Person;
-import ru.iliamalafeev.springcourse.project2SpringBoot.services.BooksService;
-import ru.iliamalafeev.springcourse.project2SpringBoot.services.PeopleService;
-import ru.iliamalafeev.springcourse.project2SpringBoot.utils.BookValidator;
+import ru.iliamalafeev.techtask2.project2SpringBoot.models.Book;
+import ru.iliamalafeev.techtask2.project2SpringBoot.models.Person;
+import ru.iliamalafeev.techtask2.project2SpringBoot.services.BooksService;
+import ru.iliamalafeev.techtask2.project2SpringBoot.services.PeopleService;
+import ru.iliamalafeev.techtask2.project2SpringBoot.utils.BookValidator;
 
 @Controller
 @RequestMapping("/books")

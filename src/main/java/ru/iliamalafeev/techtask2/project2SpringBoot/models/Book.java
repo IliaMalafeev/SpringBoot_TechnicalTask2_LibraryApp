@@ -1,4 +1,4 @@
-package ru.iliamalafeev.springcourse.project2SpringBoot.models;
+package ru.iliamalafeev.techtask2.project2SpringBoot.models;
 
 import jakarta.persistence.*;
 import jakarta.validation.constraints.NotEmpty;

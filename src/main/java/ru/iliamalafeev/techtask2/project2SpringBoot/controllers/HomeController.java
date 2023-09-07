@@ -1,4 +1,4 @@
-package ru.iliamalafeev.springcourse.project2SpringBoot.controllers;
+package ru.iliamalafeev.techtask2.project2SpringBoot.controllers;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;

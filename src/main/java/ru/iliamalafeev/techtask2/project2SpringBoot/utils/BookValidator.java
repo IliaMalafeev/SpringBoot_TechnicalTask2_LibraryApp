@@ -1,9 +1,9 @@
-package ru.iliamalafeev.springcourse.project2SpringBoot.utils;
+package ru.iliamalafeev.techtask2.project2SpringBoot.utils;
 
 import org.springframework.stereotype.Component;
 import org.springframework.validation.Errors;
 import org.springframework.validation.Validator;
-import ru.iliamalafeev.springcourse.project2SpringBoot.models.Book;
+import ru.iliamalafeev.techtask2.project2SpringBoot.models.Book;
 
 @Component
 public class BookValidator implements Validator {

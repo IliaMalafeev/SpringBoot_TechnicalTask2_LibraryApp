@@ -1,4 +1,4 @@
-package ru.iliamalafeev.springcourse.project2SpringBoot;
+package ru.iliamalafeev.techtask2.project2SpringBoot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

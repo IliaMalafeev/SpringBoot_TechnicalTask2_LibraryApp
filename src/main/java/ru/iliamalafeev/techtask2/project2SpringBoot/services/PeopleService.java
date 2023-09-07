@@ -1,10 +1,10 @@
-package ru.iliamalafeev.springcourse.project2SpringBoot.services;
+package ru.iliamalafeev.techtask2.project2SpringBoot.services;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
-import ru.iliamalafeev.springcourse.project2SpringBoot.models.Person;
-import ru.iliamalafeev.springcourse.project2SpringBoot.repositories.PeopleRepository;
+import ru.iliamalafeev.techtask2.project2SpringBoot.models.Person;
+import ru.iliamalafeev.techtask2.project2SpringBoot.repositories.PeopleRepository;
 
 import java.util.List;
 import java.util.Optional;

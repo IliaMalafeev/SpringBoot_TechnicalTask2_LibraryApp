@@ -89,6 +89,7 @@ message "No books were found" should be displayed.
 If a person has taken a book more than 10 days ago and still did not return it - that book must be
 highlighted red in this persons list of books.
 
+
 ## Implementation
 
 Source code in this repository contains all required configurations and functionality,

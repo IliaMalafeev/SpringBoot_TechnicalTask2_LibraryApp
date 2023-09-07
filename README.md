@@ -50,6 +50,3 @@ If you want to run and test it - you have to create a test database on your loca
 and fill out missing fields in database.properties file
 (do not forget to remove ".origin" from file name). I have also added sql script file
 "postgres_table_creation_commands.sql" with commands to create the necessary tables.
-
-**Tomcat** server or any other local server should be connected manually since the scope
-here is not to use SpringBoot functionality.
